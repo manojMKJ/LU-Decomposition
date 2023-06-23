@@ -19,8 +19,7 @@ To write a program to find the LU Decomposition of a matrix.
 /*
 Program to find the L and U matrix.
 Developed by: Manoj kumar G
-RegisterNumber: 22005014![Uploading bb.png…]()
-
+RegisterNumber: 22005014
 */
 import numpy as np
 from scipy.linalg import lu
@@ -46,6 +45,10 @@ print(solution)
 ```
 
 ## Output:
+![bb](https://github.com/manojMKJ/LU-Decomposition/assets/120717614/f8575d6a-ba49-4af5-9096-9736c3316f49)
+![image](https://github.com/manojMKJ/LU-Decomposition/assets/120717614/64862e73-8e84-470b-80b0-283eba89429c)
+
+
 
 
 
