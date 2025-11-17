@@ -45,12 +45,10 @@ print(solution)
 ```
 
 ## Output:
-![bb](https://github.com/manojMKJ/LU-Decomposition/assets/120717614/f8575d6a-ba49-4af5-9096-9736c3316f49)
-![image](https://github.com/manojMKJ/LU-Decomposition/assets/120717614/64862e73-8e84-470b-80b0-283eba89429c)
 
+<img width="1261" height="915" alt="MA ex5 (1)" src="https://github.com/user-attachments/assets/e01e13d4-eb04-4ba8-aa2d-9aa437b72dc1" />
 
-
-
+<img width="1255" height="900" alt="MA ex5 (2)" src="https://github.com/user-attachments/assets/8ee4ef4c-dd3d-4ed6-a146-e81bb9efb617" />
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
